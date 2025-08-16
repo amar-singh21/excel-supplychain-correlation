@@ -1,0 +1,7 @@
+Variable1,Variable2,Correlation
+Revenue,Profit,0.92
+Revenue,Expenses,-0.65
+Profit,Expenses,-0.70
+Revenue,Investment,0.85
+Profit,Investment,0.80
+Expenses,Investment,-0.40
